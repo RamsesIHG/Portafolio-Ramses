@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iAHKLMtiWuxBLA9OFB1wi8R7E1n1FrzJZkiw9Ri7LNc=",
+  "Hash": "WbpI7Ph9dGoe2eRNGsC3msa1yfVbpUUo2OFB2ZVwdGM=",
   "Source": "Proyecto",
   "BasePath": "_content/Proyecto",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\css\\custom.css",
+      "SourceId": "Proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\",
+      "BasePath": "_content/Proyecto",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
       "Identity": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\css\\site.css",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
@@ -93,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\Imagenes\\foto2.jpg",
+      "Identity": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\imagenes\\foto2.jpg",
       "SourceId": "Proyecto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\",
       "BasePath": "_content/Proyecto",
-      "RelativePath": "Imagenes/foto2.jpg",
+      "RelativePath": "imagenes/foto2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\foto2.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\foto2.jpg"
     },
     {
       "Identity": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\js\\site.js",

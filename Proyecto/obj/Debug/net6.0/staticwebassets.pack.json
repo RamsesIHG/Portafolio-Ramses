@@ -5,8 +5,8 @@
       "PackagePath": "staticwebassets\\Proyecto.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\Imagenes\\foto2.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\foto2.jpg"
+      "Id": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
     },
     {
       "Id": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\css\\site.css",
@@ -15,6 +15,10 @@
     {
       "Id": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\imagenes\\foto2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\foto2.jpg"
     },
     {
       "Id": "C:\\Users\\Ramses\\source\\repos\\Proyecto\\Proyecto\\wwwroot\\js\\site.js",

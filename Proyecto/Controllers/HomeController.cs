@@ -15,7 +15,7 @@ namespace Proyecto.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View("index2");
         }
 
         public IActionResult Privacy()

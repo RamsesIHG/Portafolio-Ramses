@@ -15,6 +15,8 @@ namespace Proyecto.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Nombre = "Ramses Herrera 2";
+            ViewBag.edad = 18;
             return View("index2");
         }
 

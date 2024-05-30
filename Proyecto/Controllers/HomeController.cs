@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Portafolio.Models;
 using Proyecto.Models;
 using System.Diagnostics;
 
@@ -15,9 +16,12 @@ namespace Proyecto.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.Nombre = "Ramses Herrera 2";
-            ViewBag.edad = 18;
-            return View("index2", "Carlos Herrera");
+            var Persona = new Persona()
+            {
+                Nombre = "Ramses Herrera ",
+                Edad = "10"
+            };
+            return View(Persona);
         }
 
         public IActionResult Privacy()
